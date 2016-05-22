@@ -128,6 +128,7 @@ spa-view{position:absolute;z-index:0;top:0;left:0;bottom:0;width:100%;background
 .popup-mask{position:absolute;top:0;right:0;bottom:0;left:0;background-color:rgba(0,0,0,0.5);height:100%}
 .swiper-container{width:100%;height:100%}
 .swiper-container img{width:100%;height:100%}
+.swiper-container .bottom-guide{position:absolute;bottom:0;left:0;width:100%;height:.8rem}
 .yo-list>.label,.yo-list>.item,.yo-list .front{display:-webkit-box;display:-webkit-flex;display:flex;-webkit-box-align:center;-webkit-align-items:center;align-items:center;-webkit-transform:translatez(0);transform:translatez(0)}
 .yo-list>.label>.mark:not(:last-child),.yo-list>.label>.yo-ico:not(:last-child),.yo-list>.item>.mark:not(:last-child),.yo-list>.item>.yo-ico:not(:last-child),.yo-list .front>.mark:not(:last-child),.yo-list .front>.yo-ico:not(:last-child){margin-right:.1rem}
 .yo-list>.label>.flex,.yo-list>.item>.flex,.yo-list .front>.flex{-webkit-box-flex:1;-webkit-flex:1;flex:1;width:.1px}
